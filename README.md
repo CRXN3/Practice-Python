@@ -1,2 +1,4 @@
 # Practice-Python
-All the answer for practice pytohn exercise website
+Hello!
+My name is CRONE, and in this repository i will post my answer for exercises from https://www.practicepython.org/ .
+
